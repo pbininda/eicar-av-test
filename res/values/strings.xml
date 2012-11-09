@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EICAR AV Test</string>
+    <string name="desc">This app checks the EICAR test string.</string>
+    <string name="found">Found EICAR String</string>
+    <string name="bad">This is bad!</string>
+    <string name="notremoved">The EICAR test string was <u>not</u> removed by an anti virus system.</string>
+    <string name="eaccess">Error accessing EICAR String</string>
+    <string name="good">This is good!</string>
+    <string name="removed">The EICAR test string seems to have been removed by an anti virus system.</string>
+</resources>
